@@ -33,6 +33,6 @@ describe('Frog Model', () => {
 			expect(frog.getY()).toBe(5);
 		});
 
-		// TODO: Set bounds, if goes of board (x: -1 || width +1 is dead, y: 0 is win, height + 1 is dead)
+		// TODO: Set bounds, if goes off board (x: -1 || width +1 is dead, y: 0 is win, height + 1 is dead)
 	});
 });
