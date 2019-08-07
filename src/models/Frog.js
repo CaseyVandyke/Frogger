@@ -21,7 +21,7 @@ export default class Frog {
 	 * Have the frog move in a direction, making contact with some other entity, deciding how to react
 	 */
 	move = direction => {
-		// TODO: add interaction code
+		// TODO: add interaction code... OR let REACT app handle interaction of models...
 		switch (direction) {
 			case UP:
 				this.position.y -= 1;
