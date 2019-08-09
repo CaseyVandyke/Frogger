@@ -30,3 +30,6 @@ Made by Casey and Jason
 - Handling contact
   _ landing
   _ dying \* finishing
+
+git checkout master
+git checkout -b 2-controls
