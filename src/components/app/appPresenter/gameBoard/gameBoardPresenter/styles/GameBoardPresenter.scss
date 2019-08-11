@@ -1,0 +1,12 @@
+.game-board {
+  background: green;
+  display: flex;
+  flex-direction: column;
+  .row {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+
+
+  }
+}
